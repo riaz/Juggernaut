@@ -1,1 +1,5 @@
 courses/zero_to_mastery_pytorch/models/
+courses/zero_to_mastery_pytorch/__pycache__/
+courses/zero_to_mastery_pytorch/data/
+key
+.DS_Store
